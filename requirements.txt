@@ -1,0 +1,17 @@
+
+---
+
+## **📜 `requirements.txt` (Dependencies for Python Environment)**
+
+```txt
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pillow
+transformers
+diffusers
+xformers
+huggingface_hub
+comfyui
