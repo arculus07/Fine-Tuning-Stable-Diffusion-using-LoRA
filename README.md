@@ -1,5 +1,5 @@
 # LoRA Fine-Tuning for Stable Diffusion 🚀
-Most of the code in this project is generated with the help of ChatGPT, but **this is not just a copy-paste project**.  
+In this project the ChatGPT is in good Amount, but **this is not just a copy-paste project**.  
 
 ### 🌱 How It Started  
 Initially, my goal was **just to generate images** using different models. I worked with **ComfyUI** and various **Stable Diffusion models**. My first attempt was with **Juggernaut**, but it **crashed my laptop** instantly. That’s when I **started learning**—about **SDXL, SD 1.5, SD 3, and LoRA fine-tuning**—and I optimized different models for my hardware.  
